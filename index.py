@@ -151,8 +151,8 @@ def grafResult():
     plt.show()
 
 
-#grafMembership()
-#grafInput()
+grafMembership()
+grafInput()
 grafResult()
 
 
