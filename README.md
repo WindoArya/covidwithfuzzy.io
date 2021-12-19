@@ -1,2 +1,0 @@
-# covidwithfuzzy.io
-Install Modul
